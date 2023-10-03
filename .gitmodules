@@ -1,0 +1,3 @@
+[submodule "Microsoft-Activation-Scripts"]
+	path = MAS
+	url = git@github.com:massgravel/Microsoft-Activation-Scripts.git
